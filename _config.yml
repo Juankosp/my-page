@@ -25,8 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml
 #baseurl: "" # the subpath of your site, e.g. /blog COMMENT THIS OUT
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: graham_northrup
-github_username:  gnorthrup
+twitter_username: 
+github_username:  
 
 # Build settings
 theme: minima
